@@ -26,13 +26,13 @@ private:
     float _yCentre;
     
 };
-//Circle::Circle()
-//{
-//    _radius=0.0;
-//    _xCentre=0.0;
-//    _yCentre=0.0;
-//    
-//}
+Circle::Circle()
+{
+    _radius=0.0;
+    _xCentre=0.0;
+    _yCentre=0.0;
+    
+}
 float Circle::getRadius()
 {
     return _radius;
