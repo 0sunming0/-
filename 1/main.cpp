@@ -67,7 +67,7 @@ int main(int argc, const char * argv[])
     cout<<"the distance between the centres is "<<c[1].distance(c[2])<<endl;
     cout<<"the distance between the centres is "<<c[1].distance(c[0])<<endl;
     cout<<"\nThe end\n";
-     cout<<"\nThe end\n";
+     
     return 0;
 }
 
